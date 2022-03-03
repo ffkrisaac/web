@@ -163,6 +163,11 @@ hr{
   text-decoration: none;
 }
 
+.skill-description{
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 
 /*.emb-code-description{
   clear: left;
